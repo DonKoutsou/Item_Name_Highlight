@@ -1,0 +1,42 @@
+FrameWidgetClass {
+ {
+  FrameWidgetClass "{5E0EEA72F447A888}" {
+   Name "Frame0"
+   Slot FrameWidgetSlot "{5E0EEA72F447A8B1}" {
+    Anchor 0.5 0.5 0.5 0.5
+    PositionX 0
+    OffsetLeft 0
+    PositionY -20
+    OffsetTop -20
+    SizeX 100
+    OffsetRight -100
+    SizeY 30
+    OffsetBottom -10
+    Alignment 0.5 0.5
+   }
+   {
+    TextWidgetClass "{5E0ECDD21EED087C}" {
+     Name "BlipName"
+     Slot FrameWidgetSlot "{5E0ECDD21EED086E}" {
+      Anchor 0 0 1 1
+      PositionX 50
+      PositionY -5
+      SizeX 0
+      OffsetRight 0
+      SizeY 0
+      OffsetBottom 0
+      Alignment 0 0
+     }
+     "Font Size" 10
+     "Min Font Size" 10
+     "Horizontal Alignment" Center
+     "Vertical Alignment" Center
+     FontProperties FontProperties "{5E0EEA718F8DF4FD}" {
+      Font "{CD2634D279AB011A}UI/Fonts/Roboto/Roboto_Bold.fnt"
+      OutlineSize 3
+     }
+    }
+   }
+  }
+ }
+}

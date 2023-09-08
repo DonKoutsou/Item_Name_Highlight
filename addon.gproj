@@ -1,0 +1,8 @@
+GameProject {
+ ID "ItemNameHighlight"
+ GUID "5E10994881B9E5F9"
+ TITLE "Item_Name_Highlight"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}
